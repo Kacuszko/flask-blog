@@ -1,6 +1,6 @@
 # flask-blog
 
-<code>pip install flask<br>
-pip install flask-wtf<br>
-export FLASK_APP=flaskblog.py<br>
-export FLASK_DEBUG=1</code>
+<code>pip install flask</code>
+<code>pip install flask-wtf</code>
+<code>export FLASK_APP=flaskblog.py</code>
+<code>export FLASK_DEBUG=1</code>
