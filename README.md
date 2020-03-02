@@ -1,3 +1,6 @@
 # flask-blog
-blog in flask
-change for init commit!
+
+<code>import flask</code>
+
+export FLASK_APP=flaskblog.py
+export FLASK_DEBUG=1
